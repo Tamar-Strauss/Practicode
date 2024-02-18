@@ -1,0 +1,60 @@
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\fib.exe
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\fib.deps.json
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\fib.runtimeconfig.json
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\fib.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\fib.pdb
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\System.CommandLine.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.csproj.AssemblyReference.cache
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.AssemblyInfoInputs.cache
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.AssemblyInfo.cs
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.csproj.CoreCompileInputs.cache
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.csproj.CopyComplete
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.dll
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\refint\fib.dll
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.pdb
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\fib.genruntimeconfig.cache
+D:\Practicode\Experience_1\fib\fib\obj\Debug\net6.0\ref\fib.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\fib.exe
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\fib.deps.json
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\fib.runtimeconfig.json
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\fib.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\fib.pdb
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\System.CommandLine.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.AssemblyInfo.cs
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.csproj.CopyComplete
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\refint\fib.dll
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.pdb
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\fib.genruntimeconfig.cache
+C:\Users\The user\Desktop\Tamar\precticode\Experience_1\fib\fib\obj\Debug\net6.0\ref\fib.dll
